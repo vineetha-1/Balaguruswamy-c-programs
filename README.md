@@ -23,6 +23,7 @@ int main()
      printf("%d",10+ ++x);
      return 0;
 }
+
 3)#include <stdio.h>
 
 int main()
