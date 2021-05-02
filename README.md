@@ -15,4 +15,16 @@ int main()
     return 0;
 }
 
-2)
+2)#include <stdio.h>
+
+int main()
+{
+    int x;
+    x=100;
+    
+    printf("%d",10+x++);
+     printf("%d",10+ ++x);
+    
+
+    return 0;
+}
